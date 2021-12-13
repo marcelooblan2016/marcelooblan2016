@@ -5,7 +5,7 @@
 ## Software engineer / Fullstack web developer
 
 - 🔭 Web Developer since 2012
-- 🌱 My interests currently is in crypto world (defi, trading - made a bot <metamask + pupeteer>, yield farming), Tech: Also learning solidity (smart contracts) 🤣
+- 🌱 Currently my interests is in crypto world (defi, trading - made a bot <metamask + pupeteer>, yield farming), Tech: Also learning solidity (smart contracts) 🤣
 - 🥅 2022 Goals: Engage / Contribute more to Open Source projects
 - ⚡ Fun fact: I love combat sports (mma, boxing, muay thai & airsoft)
 
