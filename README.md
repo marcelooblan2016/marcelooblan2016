@@ -12,8 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="marx.oblan" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=marx.oblan&logoColor=white" />][website]
-[<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][linkedin]
-[<img align="left" alt="marcelooblan | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][instagram]
+[<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="marcelooblan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="marcelooblan | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 
@@ -51,3 +52,4 @@
 [website]: https://marcelooblan2016.github.io/
 [instagram]: https://www.instagram.com/marxoblan/
 [linkedin]: https://www.linkedin.com/in/marcelo-oblan-2016/
+[facebook]: https://www.facebook.com/Mr.AllTimeHigh/
