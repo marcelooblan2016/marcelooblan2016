@@ -40,8 +40,9 @@
 <img align="left" alt="Laravel" title="Laravel" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="Slack" title="Slack" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 </p>
-
-<hr/>
+<br/>
+<br/>
+## Stats
 
 ![Marcelo Oblan's github stats](https://github-readme-stats.vercel.app/api?username=marcelooblan2016&count_private=true&show_icons=true&theme=radical)
 
