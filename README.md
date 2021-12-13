@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Engage / Contribute more to Open Source projects
 - ⚡ Fun fact: I love combat sports (mma, boxing, muay thai & airsoft)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="marx.oblan" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=marx.oblan&logoColor=white" />][website]
 [<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools
 
 <p align="center">
 <img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
