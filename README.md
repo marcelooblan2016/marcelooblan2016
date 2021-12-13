@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="marcelooblan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="marcelooblan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marcelooblan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="marx.oblan" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=marx.oblan&logoColor=white" />][website]
+[<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][linkedin]
+[<img align="left" alt="marcelooblan | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][instagram]
 
 <br />
 
