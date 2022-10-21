@@ -5,9 +5,7 @@
 ## Software engineer / Fullstack web developer
 
 - 🔭 Web Developer since 2012
-- 🌱 My interests currently is in crypto world (defi, trading - made a bot <metamask + pupeteer>, yield farming), Tech: Also learning solidity (smart contracts) 🤣
-- 🥅 2022 Goals: Engage / Contribute more to Open Source projects
-- ⚡ Fun fact: I love combat sports (mma, boxing, muay thai & airsoft)
+- 🌱 A Fullstack web developer, been involved in many projects (s) such as wifi hotspots, payment gateway, online refund system, eCommerce, Software as a service. Some of them are Freelance jobs & most of them are Full-Time Project-Based. 
 
 ## Connect with me:
 
