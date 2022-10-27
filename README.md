@@ -38,8 +38,7 @@
            "title": "Software Engineer",
            "time": "May 2020 - present",
            "description": [
-                "eCommerce website for used cars - develop feature,
-maintain & optimization, bugfix, Deploy; Laravel/Vue.js"
+                "eCommerce website for used cars - develop feature, maintain & optimization, bugfix, Deploy; Laravel/Vue.js"
            ]
        },
        {
@@ -58,8 +57,7 @@ maintain & optimization, bugfix, Deploy; Laravel/Vue.js"
            "title": "Software Engineer",
            "time": "2016 - 2018",
            "description": [
-                  "Worked as member of a dedicated team for project wifi
-(Wifi Hotspots) of the client | Globe.",
+                  "Worked as member of a dedicated team for project wifi (Wifi Hotspots) of the client | Globe.",
                   "Within a development team, Agile method."
            ]
        },
@@ -69,9 +67,7 @@ maintain & optimization, bugfix, Deploy; Laravel/Vue.js"
            "title": "Web Developer",
            "time": "2012 - 2016",
            "description": [
-                  "Develop their website, created a CMS, Chat App
-exclusively for company, Some New-to-me Projects like
-Online Refund System and Exclusive Payment Gateway."
+                  "Develop their website, created a CMS, Chat Appexclusively for company, Some New-to-me Projects like Online Refund System and Exclusive Payment Gateway."
            ]
        },
   ]
