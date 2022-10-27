@@ -16,36 +16,49 @@
 
 <br />
 
-## Languages and Tools
-
-<p align="center">
-<img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="AWS" title="AWS" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Digital Ocean" title="Digital Ocean" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
-<img align="left" alt="Javascript" title="Javascript" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Vue.js" title="Vue.js" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Npm" title="Npm" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="Nuxt.js" title="Nuxt.js" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-<img align="left" alt="Typescript" title="Typescript" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap"  width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Sass" title="Sass" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img align="left" alt="Trello" title="Trello" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img align="left" alt="MySql" title="MySql" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSql" title="PostgreSql" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="php" title="php" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="CodeIgniter" title="CodeIgniter" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Slack" title="Slack" width="30px" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
-</p>
-<br/>
-<br/>
-
 ## Stats
-
 ![Marcelo Oblan's github stats](https://github-readme-stats.vercel.app/api?username=marcelooblan2016&count_private=true&show_icons=true&theme=radical)
 
+## Languages and Tools
+```json
+{
+  "backEnd": [
+       "MySql", "PostgreSql", "NoSql",
+       "Php", "Laravel (elastic search, redis),", "Code igniter"
+  ],
+  "frontEnd": [
+       "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
+       "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js",
+       "WordPress", "October CMS"
+  ],
+  "experience": [
+       {
+           "companyOrProject": "AllCars",
+           "location": "USA • Webster, New York • Remote",
+           "title": "Software Engineer",
+           "time": "May 2020 - present"
+       },
+       {
+           "companyOrProject": "Diego Dev Group",
+           "location": "USA • San Diego, California • Remote",
+           "title": "Software Engineer",
+           "time": "April 2019- April 2020"
+       },
+       {
+           "companyOrProject": "Yondu",
+           "location": "PH • Bonifacio Global City, Taguig • Office",
+           "title": "Software Engineer",
+           "time": "2016 - 2018"
+       },
+       {
+           "companyOrProject": "IPP",
+           "location": "PH • Puerto Princesa City, Palawan • Office",
+           "title": "Web Developer",
+           "time": "2012 - 2016"
+       },
+  ]
+}
+```
 
 [website]: https://marcelooblan2016.github.io/
 [instagram]: https://www.instagram.com/marxoblan/
