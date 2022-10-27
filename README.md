@@ -36,39 +36,25 @@
            "companyOrProject": "AllCars",
            "location": "USA • Webster, New York • Remote",
            "title": "Software Engineer",
-           "time": "May 2020 - present",
-           "description": [
-                "eCommerce website for used cars - develop feature, maintain & optimization, bugfix, Deploy; Laravel/Vue.js"
-           ]
+           "time": "May 2020 - present"
        },
        {
            "companyOrProject": "Diego Dev Group",
            "location": "USA • San Diego, California • Remote",
            "title": "Software Engineer",
-           "time": "April 2019- April 2020",
-           "description": [
-                  "Worked with team for an online shop (e-commerce) of cars, CarsZoom using laravel",
-                  "Worked on blog website SDPHP"
-           ]
+           "time": "April 2019- April 2020"
        },
        {
            "companyOrProject": "Yondu",
            "location": "PH • Bonifacio Global City, Taguig • Office",
            "title": "Software Engineer",
-           "time": "2016 - 2018",
-           "description": [
-                  "Worked as member of a dedicated team for project wifi (Wifi Hotspots) of the client | Globe.",
-                  "Within a development team, Agile method."
-           ]
+           "time": "2016 - 2018"
        },
        {
            "companyOrProject": "IPP",
            "location": "PH • Puerto Princesa City, Palawan • Office",
            "title": "Web Developer",
-           "time": "2012 - 2016",
-           "description": [
-                  "Develop their website, created a CMS, Chat Appexclusively for company, Some New-to-me Projects like Online Refund System and Exclusive Payment Gateway."
-           ]
+           "time": "2012 - 2016"
        },
   ]
 }
