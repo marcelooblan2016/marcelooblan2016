@@ -31,31 +31,11 @@
        "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js",
        "WordPress", "October CMS"
   ],
-  "experience": [
-       {
-           "companyOrProject": "AllCars",
-           "location": "USA • Webster, New York • Remote",
-           "title": "Software Engineer",
-           "time": "May 2020 - present"
-       },
-       {
-           "companyOrProject": "Diego Dev Group",
-           "location": "USA • San Diego, California • Remote",
-           "title": "Software Engineer",
-           "time": "April 2019- April 2020"
-       },
-       {
-           "companyOrProject": "Yondu",
-           "location": "PH • Bonifacio Global City, Taguig • Office",
-           "title": "Software Engineer",
-           "time": "2016 - 2018"
-       },
-       {
-           "companyOrProject": "IPP",
-           "location": "PH • Puerto Princesa City, Palawan • Office",
-           "title": "Web Developer",
-           "time": "2012 - 2016"
-       },
+  "others": [
+       "Linux (Ubuntu, Centos, Amazon Linux)",
+       "Envoyer", "AWS (EC2, S3)", "Digital Ocean", "Namecheap",
+       "Trello", "Jira", "Teamwork",
+       "Git / Git Flow", "NPM", "Command Line / SSH", "SEO"
   ]
 }
 ```
