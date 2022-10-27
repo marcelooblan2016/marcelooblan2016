@@ -28,7 +28,7 @@
   ],
   "frontEnd": [
        "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
-       "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js",
+       "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript",
        "WordPress", "October CMS"
   ],
   "others": [
