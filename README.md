@@ -22,20 +22,26 @@
 ## Languages and Tools
 ```json
 {
+  "tech_stack": [
+     "LAMP", "TALL"
+  ],
+  "framework": [
+     "Laravel (elastic search, redis),", "Livewire", "Code igniter"
+  ],
   "backEnd": [
-       "MySql", "PostgreSql", "NoSql",
-       "Php", "Laravel (elastic search, redis),", "Code igniter"
+     "MySql", "PostgreSql", "NoSql", "Php"
   ],
   "frontEnd": [
-       "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
-       "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript", "Alpine.js",
-       "WordPress", "October CMS"
+     "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
+     "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript", "Alpine.js",
+     "WordPress", "October CMS"
   ],
   "others": [
-       "Linux (Ubuntu, Centos, Amazon Linux)",
-       "Envoyer", "AWS (EC2, S3)", "Digital Ocean", "Namecheap",
-       "Trello", "Jira", "Teamwork",
-       "Git / Git Flow", "NPM", "Command Line / SSH", "SEO"
+     "Github / Bitbucket",
+     "Linux (Ubuntu, Centos, Amazon Linux)",
+     "Envoyer", "AWS (EC2, S3)", "Digital Ocean", "Namecheap",
+     "Trello", "Jira", "Teamwork",
+     "Git / Git Flow", "NPM", "Command Line / SSH", "SEO"
   ]
 }
 ```
