@@ -13,12 +13,7 @@
 [<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="marcelooblan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="marcelooblan | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-
 <br />
-
-## Stats
-![Marcelo Oblan's github stats](https://github-readme-stats.vercel.app/api?username=marcelooblan2016&count_private=true&show_icons=true&theme=radical)
-
 ## Languages and Tools
 ```json
 {
