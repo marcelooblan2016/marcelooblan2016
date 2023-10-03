@@ -36,7 +36,11 @@
      "Linux (Ubuntu, Centos, Amazon Linux)",
      "Envoyer", "AWS (EC2, S3)", "Digital Ocean", "Namecheap",
      "Trello", "Jira", "Teamwork",
-     "Git / Git Flow", "NPM", "Command Line / SSH", "SEO"
+     "Git / Git Flow",
+     "Github Actions: CI / CD",
+     "NPM",
+     "Command Line / SSH",
+     "SEO"
   ]
 }
 ```
