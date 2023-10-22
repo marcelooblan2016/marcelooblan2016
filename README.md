@@ -4,9 +4,7 @@
 
 ## Software engineer / Fullstack web developer
 
-- 🔭 Web Developer since 2012
-- 🌱 A Fullstack web developer, been involved in many projects (s) such as wifi hotspots, payment gateway, online refund system, eCommerce, Software as a service. Some of them are Freelance jobs & most of them are Full-Time Project-Based. 
-
+- I have been professionally engaged as a web developer since 2012, with a specialization in full-stack development. Over the years, I have cultivated extensive expertise by actively contributing to a diverse array of projects, encompassing various domains such as WiFi hotspots, payment gateways, online refund systems, eCommerce, and Software as a Service (SaaS) solutions. My portfolio is a testament to a rich and multifaceted experience, incorporating a blend of freelance and full-time project-based engagements.
 ## Connect with me:
 
 [<img align="left" alt="marx.oblan" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=marx.oblan&logoColor=white" />][website]
@@ -28,7 +26,7 @@
   ],
   "frontEnd": [
      "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
-     "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript", "Alpine.js",
+     "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript", "Alpine.js", "Inertia.js",
      "WordPress", "October CMS"
   ],
   "others": [
