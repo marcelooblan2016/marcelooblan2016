@@ -1,4 +1,4 @@
-### Hi there, I'm Marcelo Oblan - aka [marx][website] 👋 
+### Hi there.
 
 [![Website](https://img.shields.io/website?label=www.moblan.dev&style=for-the-badge&url=https%3A%2F%2Fmoblan.dev)](https://www.moblan.dev)
 
