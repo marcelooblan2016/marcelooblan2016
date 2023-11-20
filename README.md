@@ -11,37 +11,6 @@
 [<img align="left" alt="marcelooblan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="marcelooblan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="marcelooblan | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-<br />
-## Languages and Tools
-```json
-{
-  "tech_stack": [
-     "LAMP", "TALL"
-  ],
-  "framework": [
-     "Laravel (elastic search, redis),", "Livewire", "Code igniter"
-  ],
-  "backEnd": [
-     "MySql", "PostgreSql", "NoSql", "Php"
-  ],
-  "frontEnd": [
-     "CSS / SCSS / SASS", "Tailwind", "Bootstrap",
-     "Jquery", "Vue.js/Vuex", "Nuxt.js", "Node.js", "TypeScript", "Alpine.js", "Inertia.js",
-     "WordPress", "October CMS"
-  ],
-  "others": [
-     "Github / Bitbucket",
-     "Linux (Ubuntu, Centos, Amazon Linux)",
-     "Envoyer", "AWS (EC2, S3)", "Digital Ocean", "Namecheap",
-     "Trello", "Jira", "Teamwork",
-     "Git / Git Flow",
-     "Github Actions: CI / CD",
-     "NPM",
-     "Command Line / SSH",
-     "SEO"
-  ]
-}
-```
 
 [website]: https://www.moblan.dev/
 [instagram]: https://www.instagram.com/marxoblan/
