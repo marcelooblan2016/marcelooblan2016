@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=www.moblan.dev&style=for-the-badge&url=https%3A%2F%2Fmoblan.dev)](https://www.moblan.dev)
 
-- I have been professionally engaged as a web developer since 2012, with a specialization in full-stack development. Over the years, I have cultivated extensive expertise by actively contributing to a diverse array of projects, encompassing various domains such as WiFi hotspots, online refund systems, eCommerce, and Software as a Service (SaaS) solutions. My portfolio is a testament to a rich and multifaceted experience, incorporating a blend of freelance and full-time project-based engagements.
+I have been professionally engaged as a web developer since 2012, with a specialization in full-stack development. Over the years, I have cultivated extensive expertise by actively contributing to a diverse array of projects, encompassing various domains such as WiFi hotspots, online refund systems, eCommerce, and Software as a Service (SaaS) solutions. My portfolio is a testament to a rich and multifaceted experience, incorporating a blend of freelance and full-time project-based engagements.
 ## Connect with me:
 
 [<img align="left" alt="marx.oblan" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=marx.oblan&logoColor=white" />][website]
